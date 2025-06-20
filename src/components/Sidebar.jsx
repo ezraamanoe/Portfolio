@@ -123,15 +123,19 @@ function Sidebar() {
                     </div>
                     <div className="Caption">
                         <br />
-                        - Introduction to Programming I & II (Python & Java)
+                        Introduction to Programming I & II (Python & Java)
                         <br />
-                        - Mathematical Techniques for Computer Science
                         <br />
-                        - Data Science
+                        Mathematical Techniques for Computer Science
                         <br />
-                        - Computer Engineering
                         <br />
-                        - Fundamentals of Computation
+                        Data Science
+                        <br />
+                        <br />
+                        Computer Engineering
+                        <br />
+                        <br />
+                        Fundamentals of Computation
                     </div>
                 </div>
             </div>
