@@ -122,7 +122,6 @@ function Sidebar() {
                         Noteable Courses
                     </div>
                     <div className="Caption">
-                        <br />
                         Introduction to Programming I & II (Python & Java)
                         <br />
                         <br />
