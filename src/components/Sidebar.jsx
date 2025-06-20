@@ -43,7 +43,7 @@ function Sidebar() {
                     <div className="Caption">
                         <span className="underline-1">Ajaib</span>
                         <br />
-                        (jun 2025 - aug 2025)
+                        (jun 2025 - sep 2025)
                         <br />
                         Software Engineer Intern
                         <br />
