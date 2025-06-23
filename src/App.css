@@ -41,13 +41,13 @@
 }
 
 ::-moz-selection { /* Code for Firefox */
-  color: white;
-  background: purple;
+  color: black;
+  background: cyan;
 }
 
 ::selection {
-  color: white;
-  background: purple;
+  color: black;
+  background: cyan;
 }
 
 ::-webkit-scrollbar {
