@@ -26,7 +26,7 @@ function Aside({openModal}) {
                 <br />
                 Andhito
                 <br />
-                Manoe <span className="highlight">(SWE*)</span>
+                Manoe
             </div>
             <div className="Profile">
             <a

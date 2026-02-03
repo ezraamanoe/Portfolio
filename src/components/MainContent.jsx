@@ -69,7 +69,6 @@ function MainContent() {
                 </div>
             </div>
             <div className="footer">© EZRA ANDHITO MANOE 2025</div>
-
         </div>
         </>
     )
