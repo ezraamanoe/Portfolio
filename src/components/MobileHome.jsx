@@ -60,9 +60,6 @@ function MobileHome({openModal}) {
           <br />
           <br />
           <br />
-          <div className="Buttons" onClick={() => navigate('/works')}>
-            <div className="Text">SELECTED WORKS</div>
-          </div>
           <br />
           <div className="Buttons" onClick={() => navigate('/cv')}>
             <div className="Text">CV</div>
