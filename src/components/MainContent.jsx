@@ -5,7 +5,7 @@ function MainContent() {
         <>
         <div className="MainContent-middle">
             <div className="Header">
-                SELECTED WORKS
+                ABOUT
             </div>
 
             <div className="Container">
@@ -21,7 +21,6 @@ function MainContent() {
                     </div>
                 </div>
             </div>
-            <div className="footer">© EZRA ANDHITO MANOE 2025</div>
         </div>
         </>
     )

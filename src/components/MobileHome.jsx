@@ -24,7 +24,7 @@ function MobileHome({openModal}) {
     <>
       <div className="MainContent">
         <div className="clock">{time}</div>
-        <img className="MobileImage" src="/Mobile.png" alt="Mobile" />
+        <img className="MobileImage" src="/Hero.png" alt="Mobile" />
         <div className="header">(Portfolio*)</div>
         <div className="Profile-mobile">
           PROFILE
